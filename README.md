@@ -5,6 +5,6 @@ The example is based on angular2-webpack-starter.
 cd example</br>
 npm install</br>
 typings install</br>
-npm run server:dev</br>
+npm run server:prod</br>
 
 
