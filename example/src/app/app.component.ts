@@ -20,6 +20,8 @@ import { Component } from '@angular/core';
 })
 export class App {
 
+  url = 'https://twitter.com/AngularClass';
+
   enabled_list_30: any[] = [
         ['Young father',0.5, 80000],
         ['Young mother',1.0, 10000],
