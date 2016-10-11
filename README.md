@@ -1,0 +1,1 @@
+This is ECharts for Angular2, code is in src/, while there's an example project in example/, feel free to use it.
